@@ -1,2 +1,2 @@
 # HW_15_JavaBase
-Data types , operators
+Работа с типами данных, операторами 
